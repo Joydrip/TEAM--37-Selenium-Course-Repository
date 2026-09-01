@@ -19,7 +19,7 @@ The following table contains the Google Drive links for the setup walkthrough an
 
 | Module / Topic | Description | Google Drive Video |
 | :--- | :--- | :--- |
-| **Setup & Installation** | Environment setup, Python virtual environment & Selenium WebDriver installation | [ Watch Video](YOUR_GOOGLE_DRIVE_LINK_HERE) |
+| **Setup & Installation** | Environment setup, Python virtual environment & Selenium WebDriver installation | [ Watch Video](https://drive.google.com/file/d/194L1tuKmrewMl5qtoNy_ESECr7gmFxf3/view?usp=drive_link) |
 | **Assignment 1** | Web Element Identification (`By.ID`, `By.NAME`, `By.TAG_NAME`, `By.LINK_TEXT`, `By.CLASS_NAME`) | [ Watch Video](YOUR_GOOGLE_DRIVE_LINK_HERE) |
 | **Assignment 2** | Multiple Element Identification (`find_elements` with list iterations) | [ Watch Video](YOUR_GOOGLE_DRIVE_LINK_HERE) |
 | **Assignment 3** | CSS Selector Challenge (Wildcards: `^=`, `$=`, `*=`) | [ Watch Video](YOUR_GOOGLE_DRIVE_LINK_HERE) |
