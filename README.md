@@ -4,12 +4,12 @@
 
 **Group 37 | IEM, Salt Lake**
 
-| Name | Enrollment No. | Institute |
-| :--- | :--- | :--- |
-| Abhinav Ghosh | 12023052018001 | IEM, Salt Lake |
-| Joydeep Sarkar | 12023052018014 | IEM, Salt Lake |
-| Pallab Bhattacharyya | 12023052017001 | IEM, Salt Lake |
-| Suraj Ojha | 12023052018024 | IEM, Salt Lake |
+| Name | Enrollment No. | Department | Institute |
+| :--- | :--- | :--- |:--- |
+| Abhinav Ghosh | 12023052018001 | CSBS | IEM, Salt Lake |
+| Joydeep Sarkar | 12023052018014 | CSBS | IEM, Salt Lake |
+| Pallab Bhattacharyya | 12023052017001 | CSBS | IEM, Salt Lake |
+| Suraj Ojha | 12023052018024 | CSBS | IEM, Salt Lake |
 
 ---
 
