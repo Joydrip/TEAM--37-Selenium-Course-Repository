@@ -1,6 +1,6 @@
-# 🧪 Selenium Web Automation Assignments
+#  Selenium Web Automation Assignments
 
-## 👥 Group Details
+##  Group Details
 
 **Group 37 | IEM, Salt Lake**
 
@@ -13,23 +13,22 @@
 
 ---
 
-## 🎬 Assignment Video Links
+##  Assignment Video Links
 
 The following table contains the Google Drive links for the setup walkthrough and video demonstrations of the completed assignments.
 
 | Module / Topic | Description | Google Drive Video |
 | :--- | :--- | :--- |
-| **Setup & Installation** | Environment setup, Python virtual environment & Selenium WebDriver installation | [▶️ Watch Video](YOUR_GOOGLE_DRIVE_LINK_HERE) |
-| **Assignment 1** | Web Element Identification (`By.ID`, `By.NAME`, `By.TAG_NAME`, `By.LINK_TEXT`, `By.CLASS_NAME`) | [▶️ Watch Video](YOUR_GOOGLE_DRIVE_LINK_HERE) |
-| **Assignment 2** | Multiple Element Identification (`find_elements` with list iterations) | [▶️ Watch Video](YOUR_GOOGLE_DRIVE_LINK_HERE) |
-| **Assignment 3** | CSS Selector Challenge (Wildcards: `^=`, `$=`, `*=`) | [▶️ Watch Video](YOUR_GOOGLE_DRIVE_LINK_HERE) |
-| **Assignment 4** | Child Nodes Using CSS (Direct child `>` and descendant selectors) | [▶️ Watch Video](YOUR_GOOGLE_DRIVE_LINK_HERE) |
+| **Setup & Installation** | Environment setup, Python virtual environment & Selenium WebDriver installation | [ Watch Video](YOUR_GOOGLE_DRIVE_LINK_HERE) |
+| **Assignment 1** | Web Element Identification (`By.ID`, `By.NAME`, `By.TAG_NAME`, `By.LINK_TEXT`, `By.CLASS_NAME`) | [ Watch Video](YOUR_GOOGLE_DRIVE_LINK_HERE) |
+| **Assignment 2** | Multiple Element Identification (`find_elements` with list iterations) | [ Watch Video](YOUR_GOOGLE_DRIVE_LINK_HERE) |
+| **Assignment 3** | CSS Selector Challenge (Wildcards: `^=`, `$=`, `*=`) | [ Watch Video](YOUR_GOOGLE_DRIVE_LINK_HERE) |
+| **Assignment 4** | Child Nodes Using CSS (Direct child `>` and descendant selectors) | [ Watch Video](YOUR_GOOGLE_DRIVE_LINK_HERE) |
 
-> **Note:** All Google Drive video sharing permissions are set to **"Anyone with the link → Viewer"** for evaluation access.
 
 ---
 
-## 📚 Assignment Details
+##  Assignment Details
 
 ### 🔹 Installation & Environment Setup
 Demonstration of configuring the Python environment, installing the `selenium` package via `pip`, and initializing the Chrome WebDriver instance.
@@ -57,17 +56,17 @@ Traversing parent-child and nested DOM trees using CSS combinators:
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
-* 🐍 **Language:** Python
-* 🌐 **Automation Tool:** Selenium WebDriver
-* 🌍 **Browser:** Google Chrome
-* 🔎 **Inspection Tool:** Chrome Developer Tools
-* 🎯 **Locator Strategies:** Selenium By Locators & CSS Combinators
+*  **Language:** Python
+*  **Automation Tool:** Selenium WebDriver
+*  **Browser:** Google Chrome
+*  **Inspection Tool:** Chrome Developer Tools
+*  **Locator Strategies:** Selenium By Locators & CSS Combinators
 
 ---
 
-## 📌 Submission Information
+##  Submission Information
 
 * **Group:** 37
 * **Institute:** Institute of Engineering & Management (IEM), Salt Lake
@@ -75,4 +74,4 @@ Traversing parent-child and nested DOM trees using CSS combinators:
 * **Language:** Python
 * **Driver:** Selenium Chrome WebDriver
 
-✨ **Selenium Web Automation — Group 37** ✨
+ **Selenium Web Automation — Group 37** 
