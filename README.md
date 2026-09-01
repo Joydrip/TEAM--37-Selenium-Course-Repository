@@ -62,7 +62,6 @@ Traversing parent-child and nested DOM trees using CSS combinators:
 *  **Automation Tool:** Selenium WebDriver
 *  **Browser:** Google Chrome
 *  **Inspection Tool:** Chrome Developer Tools
-*  **Locator Strategies:** Selenium By Locators & CSS Combinators
 
 ---
 
@@ -72,6 +71,5 @@ Traversing parent-child and nested DOM trees using CSS combinators:
 * **Institute:** Institute of Engineering & Management (IEM), Salt Lake
 * **Module:** Selenium Web Automation
 * **Language:** Python
-* **Driver:** Selenium Chrome WebDriver
 
  **Selenium Web Automation — Group 37** 
