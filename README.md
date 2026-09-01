@@ -20,10 +20,10 @@ The following table contains the Google Drive links for the setup walkthrough an
 | Module / Topic | Description | Google Drive Video |
 | :--- | :--- | :--- |
 | **Setup & Installation** | Environment setup, Python virtual environment & Selenium WebDriver installation | [ Watch Video](https://drive.google.com/file/d/194L1tuKmrewMl5qtoNy_ESECr7gmFxf3/view?usp=drive_link) |
-| **Assignment 1** | Web Element Identification (`By.ID`, `By.NAME`, `By.TAG_NAME`, `By.LINK_TEXT`, `By.CLASS_NAME`) | [ Watch Video](YOUR_GOOGLE_DRIVE_LINK_HERE) |
-| **Assignment 2** | Multiple Element Identification (`find_elements` with list iterations) | [ Watch Video](YOUR_GOOGLE_DRIVE_LINK_HERE) |
-| **Assignment 3** | CSS Selector Challenge (Wildcards: `^=`, `$=`, `*=`) | [ Watch Video](YOUR_GOOGLE_DRIVE_LINK_HERE) |
-| **Assignment 4** | Child Nodes Using CSS (Direct child `>` and descendant selectors) | [ Watch Video](YOUR_GOOGLE_DRIVE_LINK_HERE) |
+| **Assignment 1** | Web Element Identification (`By.ID`, `By.NAME`, `By.TAG_NAME`, `By.LINK_TEXT`, `By.CLASS_NAME`) | [ Watch Video](https://drive.google.com/file/d/172UIewT99SiCZbMeOwNyuwQCR0ORk2dI/view?usp=drive_link) |
+| **Assignment 2** | Multiple Element Identification (`find_elements` with list iterations) | [ Watch Video](https://drive.google.com/file/d/1XfBBZAADFvJZkmtrTdABVKGAk11cNtzm/view?usp=drive_link) |
+| **Assignment 3** | CSS Selector Challenge (Wildcards: `^=`, `$=`, `*=`) | [ Watch Video](https://drive.google.com/file/d/1QFKrfaSXJ8SFU37KGtdJG9F9CspdHnoO/view?usp=drive_link) |
+| **Assignment 4** | Child Nodes Using CSS (Direct child `>` and descendant selectors) | [ Watch Video](https://drive.google.com/file/d/1iy6k8AUgQAhhrLqJWUoRphPV6rc81mld/view?usp=drive_link) |
 
 
 ---
